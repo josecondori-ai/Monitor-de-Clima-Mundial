@@ -1,5 +1,10 @@
 # Weather Monitor - Monitoreo del Clima
 
+
+
+https://github.com/user-attachments/assets/cc77f444-4201-45c0-a2ac-da6330d15a34
+
+
 Una aplicación web moderna para monitorear el clima en tiempo real usando Next.js, TypeScript y Tailwind CSS.
 
 ## 🚀 Características
